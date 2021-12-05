@@ -1,0 +1,11 @@
+h1 {
+  font-size: 24px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  background: rgb(243, 242, 242);
+  border-bottom: 2px solid red;
+}
+
+p {
+  padding-left: 16px;
+}
